@@ -1,8 +1,7 @@
+![](https://raw.githubusercontent.com/jsi1v4/jsi1v4/master/assets/art.png)
+
 ### Hi there 👋.
 
-I'm Joseph. This is my webpage [www.jsi1v4.com](https://www.jsi1v4.com), take a look...
+---
 
-### About me
-
-Front-end developer, bachelor in Information Systems, Angular, React, and NodeJs developer.
-I started as an administrative assistant with data analysis, KPIs and automated routines, developed in VBScript. I worked to as a full-stack developer with automation of tasks in Python and development of server-side applications with NodeJs. Currently working as a front-end developer with Angular, NodeJs, React projects in REST, CI/CD with Microsoft DevOps and Microsoft Azure. I am currently studying design patterns and WebAssembly with Rust. I love Javascript and everything it builds.
+My name is Jose Silva (he/him). I'm a Frontend Developer from Brazil, see more in my webpage [www.jsi1v4.com](https://www.jsi1v4.com), take a look 🖖😎!
