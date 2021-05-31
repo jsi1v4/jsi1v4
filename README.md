@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/jsi1v4/jsi1v4/main/assets/art.png)
+![](assets/art.png)
 
 ### Hi there 👋.
 
