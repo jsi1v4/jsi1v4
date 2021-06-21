@@ -17,7 +17,7 @@ My name is Jose Silva (he/him). I'm a Web Developer from Brazil, see more in my 
 
 ---
 
-### Está interessado em me contratar, segue o fio 🧶...
+### Está interessado em me contratar? segue o fio 🧶...
 
 Você pode saber mais de meu histórico profissional em meu perfil do linkedin e me chamar no chat ou twitter. Se quiser saber de alguns de meus conhecimentos, veja abaixo:
 
@@ -31,7 +31,7 @@ Você pode saber mais de meu histórico profissional em meu perfil do linkedin e
 
 - [Programação reativa com Angular](https://github.com/jsi1v4/angular-rx-actions): biblioteca para facilitar as chamadas ajax e o controle de estado de meus componentes Angular.
 
-- [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): contrui um **web crawler** para capturar informações de um site utilizado no mercado financeiro.
+- [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): construi um **web crawler** para capturar informações de um site utilizado no mercado financeiro.
 
 - [Além da web](https://github.com/jsi1v4/markdown-tools): estudo **Rust** a algum tempo e apliquei meus estudos nesta ferramenta que manipula arquivos **Markdown**. _Veja também o pacote [**rmirror**](https://github.com/jsi1v4/rmirror) que estou construindo e irei publicar no repositório da comunidade de **Arch Linux**_.
 
