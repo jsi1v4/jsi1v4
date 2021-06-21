@@ -1,4 +1,4 @@
-![](assets/art.png)
+[![](assets/art.png)](https://www.jsi1v4.com/logo-animated)
 
 ### Hi there 👋.
 
@@ -33,6 +33,6 @@ Você pode saber mais de meu histórico profissional em meu perfil do linkedin e
 
 - [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): construi um **web crawler** para capturar informações de um site utilizado no mercado financeiro.
 
-- [Além da web](https://github.com/jsi1v4/markdown-tools): estudo **Rust** a algum tempo e apliquei meus estudos nesta ferramenta que manipula arquivos **Markdown**. _Veja também o pacote [**rmirror**](https://github.com/jsi1v4/rmirror) que estou construindo e irei publicar no repositório da comunidade de **Arch Linux**_.
+- [Além do Javascript](https://github.com/jsi1v4/markdown-tools): estudo **Rust** a algum tempo e apliquei meus estudos nesta ferramenta que manipula arquivos **Markdown**. _Veja também o pacote [**rmirror**](https://github.com/jsi1v4/rmirror) que estou construindo e irei publicar no repositório da comunidade de **Arch Linux**_.
 
 - [Configuração vsCode para ajudar iniciantes](https://github.com/jsi1v4/jsi1v4-pack-extension): compartilhei minha configuração e extensões para ajudar a comunidade Frontend.
