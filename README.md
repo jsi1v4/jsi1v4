@@ -31,7 +31,7 @@ Você pode saber mais do meu histórico profissional em meu perfil do linkedin e
 
 - [Programação reativa com Angular](https://github.com/jsi1v4/angular-rx-actions): biblioteca para facilitar as chamadas ajax e o controle de estado de meus componentes Angular.
 
-- [Animações com CSS](https://www.jsi1v4.com/logo-animated): testes e estudos sobre animação css aplicados num projeto modesto.
+- [Animações com CSS](https://github.com/jsi1v4/logo-animated): testes e estudos sobre animação css aplicados num projeto modesto.
 
 - [Mobile com React-Native](https://github.com/jsi1v4/my-password-app): conhecimentos adquiridos em estudos e experiências anteriores aplicados no meu app de gerenciamento de senha.
 
