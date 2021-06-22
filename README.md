@@ -19,7 +19,7 @@ My name is Jose Silva (he/him). I'm a Web Developer from Brazil, see more in my 
 
 ### Está interessado em me contratar? segue o fio 🧶...
 
-Você pode saber mais de meu histórico profissional em meu perfil do linkedin e me chamar no chat ou twitter. Se quiser saber de alguns de meus conhecimentos, veja abaixo:
+Você pode saber mais do meu histórico profissional em meu perfil do linkedin e me chamar no chat ou twitter. Se quiser saber de alguns de meus conhecimentos, veja abaixo:
 
 - [Arquitetura Frontend](https://github.com/jsi1v4/my-planning-app): construi um web app do zero para gerenciar meus planejamentos (exemplo financeiros), utilizando framework **NextJs/React**, **Ant Design UI kit**. Pronto para trabalhar em equipe, pois padroniza a forma de commitar com **Conventional commits**, **Eslint** seguindo regras do _Airbnb_. Internacionalizado com **FormatJs/React-Intl** em duas línguas (pt e en) e com testes unitários com **Jest/Testing-Library**.
 
@@ -31,8 +31,12 @@ Você pode saber mais de meu histórico profissional em meu perfil do linkedin e
 
 - [Programação reativa com Angular](https://github.com/jsi1v4/angular-rx-actions): biblioteca para facilitar as chamadas ajax e o controle de estado de meus componentes Angular.
 
+- [Animações com CSS](https://www.jsi1v4.com/logo-animated): testes e estudos sobre animação css aplicados num projeto modesto.
+
+- [Mobile com React-Native](https://github.com/jsi1v4/my-password-app): conhecimentos adquiridos em estudos e experiências anteriores aplicados no meu app de gerenciamento de senha.
+
 - [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): construi um **web crawler** para capturar informações de um site utilizado no mercado financeiro.
 
 - [Além do Javascript](https://github.com/jsi1v4/markdown-tools): estudo **Rust** a algum tempo e apliquei meus estudos nesta ferramenta que manipula arquivos **Markdown**. _Veja também o pacote [**rmirror**](https://github.com/jsi1v4/rmirror) que estou construindo e irei publicar no repositório da comunidade de **Arch Linux**_.
 
-- [Configuração vsCode para ajudar iniciantes](https://github.com/jsi1v4/jsi1v4-pack-extension): compartilhei minha configuração e extensões para ajudar a comunidade Frontend.
+- [Configuração vsCode para ajudar iniciantes](https://github.com/jsi1v4/jsi1v4-pack-extension): compartilhei minha configuração e extensões para ajudar a comunidade Frontend. Com semantic versioning e publicação no visual studio marketplace.
