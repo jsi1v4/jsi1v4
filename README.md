@@ -33,9 +33,11 @@ Você pode saber mais do meu histórico profissional em meu perfil do linkedin e
 
 - [Animações com CSS](https://github.com/jsi1v4/logo-animated): testes e estudos sobre animação css aplicados num projeto modesto.
 
+- [Testing, Testing, Testing](https://github.com/jsi1v4/testing-playground): estudos sobre testes e TDD, aplicados em um projeto **NextJs/React** (**jest**, **testing-library** e **puppeteer**).
+
 - [Mobile com React-Native](https://github.com/jsi1v4/my-password-app): conhecimentos adquiridos em estudos e experiências anteriores aplicados no meu app de gerenciamento de senha.
 
-- [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): construi um **web crawler** para capturar informações de um site utilizado no mercado financeiro.
+- [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): construi um **web crawler** utilizando **puppeteer** para capturar informações de um site utilizado no mercado financeiro.
 
 - [Além do Javascript](https://github.com/jsi1v4/markdown-tools): estudo **Rust** a algum tempo e apliquei meus estudos nesta ferramenta que manipula arquivos **Markdown**. _Veja também o pacote [**rmirror**](https://github.com/jsi1v4/rmirror) que estou construindo e irei publicar no repositório da comunidade de **Arch Linux**_.
 
