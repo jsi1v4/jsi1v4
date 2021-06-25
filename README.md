@@ -31,11 +31,13 @@ Você pode saber mais do meu histórico profissional em meu perfil do linkedin e
 
 - [Programação reativa com Angular](https://github.com/jsi1v4/angular-rx-actions): biblioteca para facilitar as chamadas ajax e o controle de estado de meus componentes Angular.
 
+- [RESTful and GraphQL](https://github.com/jsi1v4/react-graphql): conhecimentos e estudos de **GraphQL** aplicados em projetos [**React**](https://github.com/jsi1v4/react-graphql) e [**Angular**](https://github.com/jsi1v4/angular-graphql).
+
 - [Animações com CSS](https://github.com/jsi1v4/logo-animated): testes e estudos sobre animação css aplicados num projeto modesto.
 
 - [Testing, Testing, Testing](https://github.com/jsi1v4/testing-playground): estudos sobre testes e TDD, aplicados em um projeto **NextJs/React** (**jest**, **testing-library** e **puppeteer**).
 
-- [Mobile com React-Native](https://github.com/jsi1v4/my-password-app): conhecimentos adquiridos em estudos e experiências anteriores aplicados no meu app de gerenciamento de senha.
+- [Mobile com React-Native](https://github.com/jsi1v4/my-password-app): estudos e experiências anteriores aplicados no meu app de gerenciamento de senha.
 
 - [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): construi um **web crawler** utilizando **puppeteer** para capturar informações de um site utilizado no mercado financeiro.
 
