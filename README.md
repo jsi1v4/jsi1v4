@@ -2,8 +2,8 @@
 
 ### Hi there 👋.
 
-[![twitter](https://img.shields.io/twitter/url?url=https://twitter.com/jsi1v4)](https://twitter.com/jsi1v4)
-[![linkedin](https://img.shields.io/badge/-Jose%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsi1v4)](https://www.linkedin.com/in/jsi1v4)
+[![twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jsi1v4)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsi1v4)
 
 ---
 
@@ -19,7 +19,7 @@ My name is Jose Silva (he/him). I'm a Web Developer from Brazil, see more in my 
 
 ### Está interessado em me contratar? segue o fio 🧶...
 
-Você pode saber mais do meu histórico profissional em meu perfil do linkedin e me chamar no chat ou twitter. Se quiser saber de alguns de meus conhecimentos, veja abaixo:
+Você pode saber mais do meu histórico profissional em meu perfil do linkedin. Se quiser saber mais sobre meus conhecimentos, veja abaixo alguns repositórios:
 
 - [Arquitetura Frontend](https://github.com/jsi1v4/my-planning-app): construi um web app do zero para gerenciar meus planejamentos (exemplo financeiros), utilizando framework **NextJs/React**, **Ant Design UI kit**. Pronto para trabalhar em equipe, pois padroniza a forma de commitar com **Conventional commits**, **Eslint** seguindo regras do _Airbnb_. Internacionalizado com **FormatJs/React-Intl** em duas línguas (pt e en) e com testes unitários com **Jest/Testing-Library**.
 
