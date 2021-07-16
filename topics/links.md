@@ -1,4 +1,4 @@
-[envelope](mailto:hello@jsi1v4.dev)
+[envelope](mailto:hello@jsi1v4.com)
 [linkedin](https://www.linkedin.com/in/jsi1v4)
 [twitter](https://twitter.com/jsi1v4)
 [telegram](https://t.me/jsi1v4)
