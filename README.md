@@ -7,7 +7,7 @@
 
 ---
 
-My name is José Paulo (like 'Joseph'). I'm a Web Developer from Brazil, see more in my webpage [www.jsi1v4.com](https://www.jsi1v4.com), take a look 🖖😎!
+My name is José Paulo (like 'Joseph'). I'm a Front-end Developer from Brazil, see more in my webpage [www.jsi1v4.com](https://www.jsi1v4.com), take a look 🖖😎!
 
 > Front-end resume: [www.jsi1v4.com](https://www.jsi1v4.com)
 
