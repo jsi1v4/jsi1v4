@@ -1,4 +1,4 @@
-[![](assets/art.png)](https://www.jsi1v4.com/logo-animated)
+[![](assets/art.png)](https://www.josepaulo.dev/logo-animated)
 
 ### Hi there 👋.
 
@@ -7,13 +7,13 @@
 
 ---
 
-My name is José Paulo (like 'Joseph'). I'm a Front-end Developer from Brazil, see more in my webpage [www.jsi1v4.com](https://www.jsi1v4.com), take a look 🖖😎!
+My name is José Paulo (like 'Joseph'). I'm a Front-end Developer from Brazil, see more in my webpage [www.josepaulo.dev](https://www.josepaulo.dev), take a look 🖖😎!
 
-> Front-end resume: [www.jsi1v4.com](https://www.jsi1v4.com)
+> Front-end resume: [www.josepaulo.dev](https://www.josepaulo.dev)
 
-> Back-end resume: [api.jsi1v4.com/welcome](https://api.jsi1v4.com/api/welcome)
+> Back-end resume: [api.josepaulo.dev/welcome](https://api.josepaulo.dev/api/welcome)
 
-> Hipster resume: `sh -c "$(curl -fsSL https://www.jsi1v4.com/welcome.sh)"`
+> Hipster resume: `sh -c "$(curl -fsSL https://www.josepaulo.dev/welcome.sh)"`
 
 ---
 
