@@ -7,7 +7,7 @@
 
 ---
 
-My name is José Paulo (like 'Joseph'). I'm a Front-end Developer from Brazil, see more in my webpage [www.josepaulo.dev](https://www.josepaulo.dev), take a look 🖖😎!
+My name is José Paulo (like 'Joseph'). I'm a Software Developer from Brazil, see more in my webpage [www.josepaulo.dev](https://www.josepaulo.dev), take a look 🖖😎!
 
 > Front-end resume: [www.josepaulo.dev](https://www.josepaulo.dev)
 
@@ -37,7 +37,7 @@ Você pode saber mais do meu histórico profissional em meu perfil do linkedin. 
 
 - [Testing, Testing, Testing](https://github.com/jsi1v4/testing-playground): estudos sobre testes e TDD, aplicados em um projeto **NextJs/React** (**jest**, **testing-library** e **puppeteer**).
 
-- [Mobile com React-Native](https://github.com/jsi1v4/my-password-app): estudos e experiências anteriores aplicados no meu app de gerenciamento de senha.
+- [Vite + React + Typescript](https://github.com/jsi1v4/password-generator): estudos e experiências anteriores aplicadas num app para gerar senhas, [**acesse aqui!**](https://www.josepaulo.dev/password-generator).
 
 - [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): construi um **web crawler** utilizando **puppeteer** para capturar informações de um site utilizado no mercado financeiro.
 
