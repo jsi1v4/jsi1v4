@@ -29,7 +29,7 @@ Você pode saber mais do meu histórico profissional em meu perfil do linkedin. 
 
 - [Conhecimentos de Back-end](https://github.com/jsi1v4/nodejs-statics-redirects): criei uma aplicação **NodeJs** que ajuda a lidar com links e redirecionamento de página para conteúdos estáticos ou externo a um domínio. Utilizando framework **Express** e testes unitários com **Jest/Supertest**. Tambem tenho meu [projeto de desenvolvimento pessoal](https://github.com/jsi1v4/pdi-fullstack) onde aplico meus estudos da area de back-end. _De uma olhada também na minha [**API** pessoal](https://github.com/jsi1v4/my-api)._
 
-- [Design Patterns](https://github.com/jsi1v4/design-patterns) estudos e conhecimentos aplicados na pratica, junto aos principios [SOLID](https://github.com/jsi1v4/solid).
+- [Design Patterns](https://github.com/jsi1v4/design-patterns): estudos e conhecimentos aplicados na pratica, junto aos principios [SOLID](https://github.com/jsi1v4/solid).
 
 - [Programação reativa com Angular](https://github.com/jsi1v4/angular-rx-actions): biblioteca para facilitar as chamadas ajax e o controle de estado de meus componentes Angular.
 
