@@ -19,15 +19,17 @@ My name is José Paulo (like 'Joseph'). I'm a Software Developer from Brazil, se
 
 ### Está interessado em me contratar? segue o fio 🧶...
 
-Você pode saber mais do meu histórico profissional em meu perfil do linkedin. Se quiser saber mais sobre meus conhecimentos, veja abaixo alguns repositórios:
+Você pode saber mais do meu histórico profissional em meu perfil do linkedin. Se quiser saber mais sobre meus conhecimentos, veja abaixo alguns projetos:
 
-- [Arquitetura Frontend](https://github.com/jsi1v4/my-planning-app): construi um web app do zero para gerenciar meus planejamentos (exemplo financeiros), utilizando framework **NextJs/React**, **Ant Design UI kit**. Pronto para trabalhar em equipe, pois padroniza a forma de commitar com **Conventional commits**, **Eslint** seguindo regras do _Airbnb_. Internacionalizado com **FormatJs/React-Intl** em duas línguas (pt e en) e com testes unitários com **Jest/Testing-Library**.
+- [Arquitetura Front-end](https://github.com/jsi1v4/my-planning-app): construi um web app do zero para gerenciar meus planejamentos (exemplo financeiros), utilizando framework **NextJs/React**, **Ant Design UI kit**. Pronto para trabalhar em equipe, pois padroniza a forma de commitar com **Conventional commits**, **Eslint** seguindo regras do _Airbnb_. Internacionalizado com **FormatJs/React-Intl** em duas línguas (pt e en) e com testes unitários com **Jest/Testing-Library**.
 
-- [Frontend Vanilla](https://github.com/jsi1v4/jsi1v4.github.io): desenvolvi minha pagina pessoal do zero, desde o protótipo no **Figma**, ao deploy automatizado **gh-pages**. Nele você encontrará css no padrão **BEM**, **Javascript Vanilla**, **ES2017**, chamadas ajax **fetch** e api **html5 audio**. Utilizei **babel** para o build e polyfills.
+- [Front-end Vanilla](https://github.com/jsi1v4/jsi1v4.github.io): desenvolvi minha pagina pessoal do zero, desde o protótipo no **Figma**, ao deploy automatizado **gh-pages**. Nele você encontrará css no padrão **BEM**, **Javascript Vanilla**, **ES2017**, chamadas ajax **fetch** e api **html5 audio**. Utilizei **babel** para o build e polyfills.
 
 - [Usuario linux](https://github.com/jsi1v4/dotfiles): setup modesto de meu workplace linux, em constante evolução para garantir a qualidade em meus trabalhos.
 
-- [Conhecimento de backend](https://github.com/jsi1v4/nodejs-statics-redirects): criei uma aplicação **NodeJs** que ajuda a lidar com links e redirecionamento de página para conteúdos estáticos ou externo a um domínio. Utilizando framework **Express** e testes unitários com **Jest/Supertest**. _De uma olhada também na minha [**API** pessoal](https://github.com/jsi1v4/my-api)._
+- [Conhecimentos de Back-end](https://github.com/jsi1v4/nodejs-statics-redirects): criei uma aplicação **NodeJs** que ajuda a lidar com links e redirecionamento de página para conteúdos estáticos ou externo a um domínio. Utilizando framework **Express** e testes unitários com **Jest/Supertest**. Tambem tenho meu [projeto de desenvolvimento pessoal](https://github.com/jsi1v4/pdi-fullstack) onde aplico meus estudos da area de back-end. _De uma olhada também na minha [**API** pessoal](https://github.com/jsi1v4/my-api)._
+
+- [Design Patterns](https://github.com/jsi1v4/design-patterns) estudos e conhecimentos aplicados na pratica, junto aos principios [SOLID](https://github.com/jsi1v4/solid).
 
 - [Programação reativa com Angular](https://github.com/jsi1v4/angular-rx-actions): biblioteca para facilitar as chamadas ajax e o controle de estado de meus componentes Angular.
 
@@ -37,7 +39,7 @@ Você pode saber mais do meu histórico profissional em meu perfil do linkedin. 
 
 - [Testing, Testing, Testing](https://github.com/jsi1v4/testing-playground): estudos sobre testes e TDD, aplicados em um projeto **NextJs/React** (**jest**, **testing-library** e **puppeteer**).
 
-- [Vite + React + Typescript](https://github.com/jsi1v4/password-generator): estudos e experiências anteriores aplicadas num app para gerar senhas, [**acesse aqui!**](https://www.josepaulo.dev/password-generator).
+- [Vite + React + Typescript](https://github.com/jsi1v4/password-generator): estudos e experiências aplicadas num app gerador de senhas, [**acesse aqui!**](https://www.josepaulo.dev/password-generator).
 
 - [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): construi um **web crawler** utilizando **puppeteer** para capturar informações de um site utilizado no mercado financeiro.
 
