@@ -7,7 +7,7 @@
 
 ---
 
-My name is José Paulo (like 'Joseph'). I'm a Software Developer from Brazil, see more in my webpage [www.josepaulo.dev](https://www.josepaulo.dev), take a look 🖖😎!
+My name is José Paulo (like 'Joseph'). I'm a Software Engineer from Brazil, see more in my webpage [www.josepaulo.dev](https://www.josepaulo.dev), take a look 🖖😎!
 
 > Front-end resume: [www.josepaulo.dev](https://www.josepaulo.dev)
 
