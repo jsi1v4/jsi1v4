@@ -35,14 +35,18 @@ Você pode saber mais do meu histórico profissional em meu perfil do linkedin. 
 
 - [RESTful and GraphQL](https://github.com/jsi1v4/react-graphql): conhecimentos e estudos de **GraphQL** aplicados em projetos [**React**](https://github.com/jsi1v4/react-graphql) e [**Angular**](https://github.com/jsi1v4/angular-graphql).
 
-- [Animações com CSS](https://github.com/jsi1v4/logo-animated): testes e estudos sobre animação css aplicados num projeto modesto.
+- [Animações com CSS](https://github.com/jsi1v4/logo-animated): testes e estudos sobre animação css aplicados em um projeto modesto.
 
 - [Testing, Testing, Testing](https://github.com/jsi1v4/testing-playground): estudos sobre testes e TDD, aplicados em um projeto **NextJs/React** (**jest**, **testing-library** e **puppeteer**).
 
-- [Vite + React + Typescript](https://github.com/jsi1v4/password-generator): estudos e experiências aplicadas num app gerador de senhas, [**acesse aqui!**](https://www.josepaulo.dev/password-generator).
+- [Vite + React + Typescript](https://github.com/jsi1v4/password-generator): experiências aplicadas com React, [**acesse aqui!**](https://www.josepaulo.dev/password-generator).
+
+- [Vite + Vue3 + Typescript](https://github.com/jsi1v4/amiibo-showcase): experiências aplicadas com Vuejs, [**acesse aqui!**](https://www.josepaulo.dev/amiibo-showcase).
 
 - [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): construi um **web crawler** utilizando **puppeteer** para capturar informações de um site utilizado no mercado financeiro.
 
 - [Além do Javascript](https://github.com/jsi1v4/markdown-tools): estudo **Rust** a algum tempo e apliquei meus estudos nesta ferramenta que manipula arquivos **Markdown**. _Veja também o pacote [**rmirror**](https://github.com/jsi1v4/rmirror) que estou construindo e irei publicar no repositório da comunidade de **Arch Linux**_.
 
 - [Configuração vsCode para ajudar iniciantes](https://github.com/jsi1v4/jsi1v4-pack-extension): compartilhei minha configuração e extensões para ajudar a comunidade Frontend. Com semantic versioning e publicação no visual studio marketplace.
+
+Keep calm and code on 🤘.
