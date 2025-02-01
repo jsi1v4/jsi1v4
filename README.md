@@ -7,7 +7,7 @@
 
 ---
 
-My name is José Paulo (like 'Joseph'). I'm a Software Engineer from Brazil, see more in my webpage [www.josepaulo.dev](https://www.josepaulo.dev), take a look 🖖😎!
+My name is José Paulo (like 'Joseph'). I'm a Software Developer from Brazil, see more in my webpage [www.josepaulo.dev](https://www.josepaulo.dev), take a look 🖖😎!
 
 > Front-end resume: [www.josepaulo.dev](https://www.josepaulo.dev)
 
@@ -19,17 +19,23 @@ My name is José Paulo (like 'Joseph'). I'm a Software Engineer from Brazil, see
 
 ### Está interessado em me contratar? segue o fio 🧶...
 
-Você pode saber mais do meu histórico profissional em meu perfil do linkedin. Se quiser saber mais sobre meus conhecimentos, veja abaixo alguns projetos:
+Você pode saber mais do meu histórico profissional em meu perfil do LinkedIn. Se quiser saber mais sobre meus conhecimentos, veja abaixo alguns projetos:
 
-- [Arquitetura Front-end](https://github.com/jsi1v4/my-planning-app): construi um web app do zero para gerenciar meus planejamentos (exemplo financeiros), utilizando framework **NextJs/React**, **Ant Design UI kit**. Pronto para trabalhar em equipe, pois padroniza a forma de commitar com **Conventional commits**, **Eslint** seguindo regras do _Airbnb_. Internacionalizado com **FormatJs/React-Intl** em duas línguas (pt e en) e com testes unitários com **Jest/Testing-Library**.
+- [Back-end Java](https://github.com/jsi1v4/my-api): desenvolvi uma API REST com **Java**, **Spring Boot** e **PostgreSQL**, possui autenticação e funções para gerenciar meu aplicativo de planejamento pessoal.
 
-- [Front-end Vanilla](https://github.com/jsi1v4/jsi1v4.github.io): desenvolvi minha pagina pessoal do zero, desde o protótipo no **Figma**, ao deploy automatizado **gh-pages**. Nele você encontrará css no padrão **BEM**, **Javascript Vanilla**, **ES2017**, chamadas ajax **fetch** e api **html5 audio**. Utilizei **babel** para o build e polyfills.
+- [Back-end NodeJS](https://github.com/jsi1v4/api-node): desenvolvi uma API REST completa com **NestJS** e **Prisma**, replicando as mesmas funções de minha API Java para consolidar meu conhecimentos na plataforma NodeJS. Criei uma [aplicação **NodeJs**](https://github.com/jsi1v4/nodejs-statics-redirects) que ajuda a lidar com links e redirecionamento de página para conteúdos estáticos ou externo a um domínio. Utilizando framework **Express** e testes unitários com **Jest/Supertest**.
 
-- [Usuario linux](https://github.com/jsi1v4/dotfiles): setup modesto de meu workplace linux, em constante evolução para garantir a qualidade em meus trabalhos.
+- [Back-end .NET](https://github.com/jsi1v4/clean-architecture-dotnet): desenvolvi uma API REST com **.NET** e **SQL Server**, possui autenticação e um CRUD de produtos, onde aplico meus estudos da **Clean Architecture**. Criei também uma [API REST](https://github.com/jsi1v4/api-csharp) replicando as mesmas funções de minha API Java para consolidar meu conhecimentos na plataforma .NET.
 
-- [Conhecimentos de Back-end](https://github.com/jsi1v4/nodejs-statics-redirects): criei uma aplicação **NodeJs** que ajuda a lidar com links e redirecionamento de página para conteúdos estáticos ou externo a um domínio. Utilizando framework **Express** e testes unitários com **Jest/Supertest**. Tambem tenho meu [projeto de desenvolvimento pessoal](https://github.com/jsi1v4/pdi-fullstack) onde aplico meus estudos da area de back-end. _De uma olhada também na minha [**API** pessoal](https://github.com/jsi1v4/my-api)._
+- [Front-end avançado](https://github.com/jsi1v4/my-planning-app): construí um web app do zero para gerenciar meus planejamentos pessoais (exemplo financeiros), utilizando framework **NextJs/React**, **Ant Design UI kit**. Com arquitetura pronta para trabalhar em equipe, pois padroniza a forma de commitar com **Conventional commits**, **Eslint** seguindo regras do _Airbnb_. Internacionalizado com **FormatJs/React-Intl** em duas línguas (pt e en) e com testes unitários com **Jest/Testing-Library**.
 
-- [Design Patterns](https://github.com/jsi1v4/design-patterns): estudos e conhecimentos aplicados na pratica, junto aos principios [SOLID](https://github.com/jsi1v4/solid).
+- [DevOps](https://github.com/jsi1v4/devops): projeto com o **System Design** dos meus projetos Back-end, nele aplico meus conhecimentos de DevOps ao longo do tempo, utilizando **Docker** e diversos tipos de ferramentas e banco de dados como **SQL Server**, **PostgreSQL**, **MongoDB**, **Redis** e **RabbitMQ**.
+
+- [Front-end vanilla](https://github.com/jsi1v4/jsi1v4.github.io): desenvolvi minha pagina pessoal do zero, desde o protótipo no **Figma**, ao deploy automatizado **gh-pages**. Nele você encontrará css no padrão **BEM**, **Javascript Vanilla**, **ES2017**, chamadas ajax **fetch** e api **html5 audio**. Utilizei **babel** para o build e polyfills.
+
+- [Usuário Linux](https://github.com/jsi1v4/dotfiles): setup modesto de meu workplace Linux, em constante evolução para garantir a qualidade em meus trabalhos.
+
+- [Design Patterns](https://github.com/jsi1v4/design-patterns): estudos e conhecimentos aplicados na pratica, junto aos princípios [SOLID](https://github.com/jsi1v4/solid).
 
 - [Programação reativa com Angular](https://github.com/jsi1v4/angular-rx-actions): biblioteca para facilitar as chamadas ajax e o controle de estado de meus componentes Angular.
 
@@ -41,12 +47,12 @@ Você pode saber mais do meu histórico profissional em meu perfil do linkedin. 
 
 - [Vite + React + Typescript](https://github.com/jsi1v4/password-generator): experiências aplicadas com React, [**acesse aqui!**](https://www.josepaulo.dev/password-generator).
 
-- [Vite + Vue3 + Typescript](https://github.com/jsi1v4/amiibo-showcase): experiências aplicadas com Vuejs, [**acesse aqui!**](https://www.josepaulo.dev/amiibo-showcase).
+- [Vite + Vue3 + Typescript](https://github.com/jsi1v4/amiibo-showcase): experiências aplicadas com VueJS, [**acesse aqui!**](https://www.josepaulo.dev/amiibo-showcase).
 
 - [Automatização de tarefas](https://github.com/jsi1v4/puppeteer-brazilian-holidays): construi um **web crawler** utilizando **puppeteer** para capturar informações de um site utilizado no mercado financeiro.
 
-- [Além do Javascript](https://github.com/jsi1v4/markdown-tools): estudo **Rust** a algum tempo e apliquei meus estudos nesta ferramenta que manipula arquivos **Markdown**. _Veja também o pacote [**rmirror**](https://github.com/jsi1v4/rmirror) que estou construindo e irei publicar no repositório da comunidade de **Arch Linux**_.
+- [Outras linguagens](https://github.com/jsi1v4/markdown-tools): estudo **Rust** a algum tempo e apliquei meus estudos nesta ferramenta que manipula arquivos **Markdown**. _Veja também o pacote [**rmirror**](https://github.com/jsi1v4/rmirror) que estou construindo e irei publicar no repositório da comunidade de **Arch Linux**_.
 
-- [Configuração vsCode para ajudar iniciantes](https://github.com/jsi1v4/jsi1v4-pack-extension): compartilhei minha configuração e extensões para ajudar a comunidade Frontend. Com semantic versioning e publicação no visual studio marketplace.
+- [Configuração VSCode para ajudar iniciantes](https://github.com/jsi1v4/jsi1v4-pack-extension): compartilhei minha configuração e extensões para ajudar a comunidade Frontend. Com semantic versioning e publicação no visual studio marketplace.
 
 Keep calm and code on 🤘.
